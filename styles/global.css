@@ -51,3 +51,14 @@ code {
   font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
     Bitstream Vera Sans Mono, Courier New, monospace;
 }
+
+input[type='text']:focus {
+  background-color: lightblue;
+}
+
+label {
+  color: rgb(103, 170, 237);
+  font-weight: bold;
+  float: left;
+  padding: 10px 10px 10px 0px;
+}
