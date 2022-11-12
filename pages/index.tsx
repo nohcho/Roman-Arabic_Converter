@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import Image from 'next/image';
 import styles from '@/pages/index.module.css';
-import Converter from '__tests__/components/Converter';
+import Converter from 'components/Converter';
 
 export default function Home() {
 
