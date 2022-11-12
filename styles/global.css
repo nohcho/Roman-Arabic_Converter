@@ -56,9 +56,13 @@ input[type='text']:focus {
   background-color: lightblue;
 }
 
+
 label {
   color: rgb(103, 170, 237);
   font-weight: bold;
   float: left;
   padding: 10px 10px 10px 0px;
 }
+
+
+
